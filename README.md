@@ -8,7 +8,7 @@
 ## Endpoints
 
 - functionality method path
-   = - create a todo item POST /todo
+    - create a todo item POST /todo
     - read a todo list item GET /todo/{id}
     - update a todo item PUT /todo/{id}
     - delete a todo item DELETE /todo/{id}
